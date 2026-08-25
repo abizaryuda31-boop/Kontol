@@ -1,0 +1,4 @@
+pyTelegramBotAPI>=4.16.0
+requests
+python-dotenv
+cryptography
