@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.16.0
+sqlite3
+requests
+python-dotenv
+cryptography
